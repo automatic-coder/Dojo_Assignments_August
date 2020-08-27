@@ -1,0 +1,25 @@
+.box1, .box2, .box3{
+    height: 70px;
+    width: 70px;
+    border:red solid 5px;
+    /* margin: 10px; */
+    display: inline-block;
+}
+
+.parent{
+    width: 700px;
+    border: solid orange 1px;
+}
+
+.box1{
+    height: 50px;
+    vertical-align: middle;
+}
+.box2{
+    vertical-align: middle;
+}
+.box3{
+    height: 10px;
+    vertical-align: middle;
+}
+

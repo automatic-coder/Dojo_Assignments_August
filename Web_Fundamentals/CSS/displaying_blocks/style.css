@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    min-height: 300px;
+    width: 700px;
+    background-color: #D5D2AE;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-bottom: 30px;
+}
+
+.header img{
+    width: 100px;
+    height: 50px;
+    background-color: white;
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 17px;
+}
+
+.boxes img{
+    width: 100px;
+    background-color: white;
+    border: #81B4EE solid 10px;
+    outline: black solid 5px
+}
+
+.boxes .even{
+    border: #F36870 solid 10px;
+    background-color:#F36870
+}
+

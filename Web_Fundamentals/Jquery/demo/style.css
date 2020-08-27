@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    justify-content: center;
+}
+
+.nav p{
+    padding: 20px;
+    background-color: aliceblue;
+    border-left: solid silver 1px;
+}
+
+.blowup{
+    font-weight: 900;
+    color: Red;
+}

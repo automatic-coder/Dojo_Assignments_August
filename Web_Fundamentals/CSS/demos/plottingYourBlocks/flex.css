@@ -1,0 +1,9 @@
+.child{
+    border:red solid 1px;
+    height: 100px;
+    width: 100px;
+}
+
+.parent {
+    display:flex;
+}
